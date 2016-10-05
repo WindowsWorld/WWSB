@@ -1,0 +1,2 @@
+# WWSB
+WindowsWorld Scammer Bingo
